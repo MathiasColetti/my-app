@@ -99,8 +99,14 @@
             ],
             "scripts": []
           }
+        },
+        "e2e": {
+          "builder": "playwright-ng-schematics:playwright"
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "f7dbbf35-aa2c-41aa-8e6c-7774d9cfae9c"
   }
 }
